@@ -34,13 +34,15 @@
 <div align="center">
 
   <!-- Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical&count_private=true"/>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" height="180px"/>
+</p>
 
-  <!-- Linguagens -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=8&theme=radical"/>
-
-  <!-- Streak -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=SeuUsuario&theme=radical&hide_border=false"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bassirona-prog&theme=radical&hide_border=true" height="200px"/>
+</p>
 
 </div>
 
