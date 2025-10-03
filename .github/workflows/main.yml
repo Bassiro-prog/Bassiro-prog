@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "15 * * * *"  
-  workflow_dispatch:  # Permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -20,20 +20,10 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy Snake Animation to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          build_dir: dist 
+          build_dir: dist
           target_branch: output
-
-      - name: Push to output branch
-        uses: actions/checkout@v4
-        with:
-          ref: output
-      - name: Commit files
-        run: |
-          git config --local user.email "action@github.com"
-          #"Corrigindo erro de build_dir no workflow do snake"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || git commit -m "Update snake animation"
-          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
