@@ -31,7 +31,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center>
+<div align="center">
 
   <!-- Stats -->
 <p align="center">
