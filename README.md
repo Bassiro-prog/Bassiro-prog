@@ -17,7 +17,7 @@
 
 ## 🚀 Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 40px; margin: 10px;" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 40px; margin: 15px;" />
   <img src="https://img.shields.io/badge/PL%2FSQL-E34C26?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" style="height: 40px; margin: 15px;" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" style="height: 40px; margin: 15px;" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="height: 40px; margin: 15px;" />
@@ -50,7 +50,7 @@
 ## 📂 Projetos em destaque
 - 🏋️‍♂️ [Impacto Gym](https://github.com/seu-repo-impacto) → WebApp de treinos para iniciantes em musculação  
 - 🛒 [Sistema de Vendas](https://github.com/seu-repo-vendas) → Gerenciamento de clientes, pedidos e produtos  
-- 🎓 [Projeto Acadêmico 42](https://github.com/seu-repo-42) → Exercícios e soluções em C  
+- 🎓 [Projeto Acadêmico 42](https://github.com/reloaded-42) → Exercícios e soluções em C  
 
 ---
 
