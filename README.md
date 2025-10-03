@@ -36,7 +36,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" alt="GitHub Stats" height="50%" whidth="50%/>
+      <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" alt="GitHub Stats" height="50%" whidth="50%"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" alt="Top Languages" height="50%" whidth="50%"/>
