@@ -35,7 +35,7 @@
 
   <!-- Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" alt="GitHub Stats" height="50%" width="180%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" alt="GitHub Stats" height="50%" width="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" alt="Top Languages" height="50%" width="180"/>
 </p>
 <p align="center">
