@@ -47,13 +47,6 @@
   </tr>
 </table>
 
-## 📂 Projetos em destaque
-- 🏋️‍♂️ [Impacto Gym](https://github.com/seu-repo-impacto) → WebApp de treinos para iniciantes em musculação  
-- 🛒 [Sistema de Vendas](https://github.com/seu-repo-vendas) → Gerenciamento de clientes, pedidos e produtos  
-- 🎓 [Projeto Acadêmico 42](https://github.com/reloaded-42) → Exercícios e soluções em C  
-
----
-
 ## 🌍 Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/bassiro-nanque-b4070a330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
