@@ -30,14 +30,19 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" height="180px"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bassiro-prog&theme=radical&hide_border=true" height="180px"/>
-</p>
+<div align="center">
+
+  <!-- Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical&count_private=true"/>
+
+  <!-- Linguagens -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=8&theme=radical"/>
+
+  <!-- Streak -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=SeuUsuario&theme=radical&hide_border=false"/>
+
+</div>
 
 ---
 
