@@ -36,15 +36,12 @@
   <!-- Stats -->
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bassirona-prog&theme=radical&hide_border=true" height="200px"/>
+  <img src="https://streak-stats.demolab.com?user=bassiro-prog&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
-
-</div>
 
 ---
 
