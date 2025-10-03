@@ -31,12 +31,12 @@
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bassiro-prog&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=bassiro-prog&theme=radical&hide_border=true" height="180px"/>
 </p>
 
 ---
