@@ -1,11 +1,11 @@
 <!-- Banner de apresentação -->
 <h1 align="center">👋 Olá, eu sou o Bassiro Nanque</h1>
-<h3 align="center">💻 Cadete na 42 | 🎓 Estudante de Ciência da Computação na FAM | 🚀 Futuro Engenheiro de Software</h3>
+<h3 align="center">💻 Cadete na 42 | 🎓 Estudante de Ciência da Computação na FAM </h3>
 
 ---
 ## 🧑‍💻 Sobre mim  
 
-🎓 Sou estudante de **Ciência da Computação** na Faculdade de Americana (FAM) e faço parte da **42 São Paulo**, onde mergulho em projetos práticos que desafiam minha lógica e                criatividade.  
+🎓 Sou estudante de **Ciência da Computação** na Faculdade das Americanas (FAM) e faço parte da **42 São Paulo**, onde mergulho em projetos práticos que desafiam minha lógica e                criatividade.  
 
 💻 Apaixonado por programação, estou desenvolvendo minhas habilidades em **C, C++** e outras tecnologias, com foco em **resolução de problemas** e **desenvolvimento de software**.  
 
