@@ -32,18 +32,18 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-<table align="center">
+<table align="center" style="width: 100%; border-collapse: collapse; margin: 0; padding: 0;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" alt="GitHub Stats" height="100%" width="100%"/>
+    <td style="width: 50%; padding: 0; margin: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; height: auto; display: block; margin: 0; padding: 0;"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" alt="Top Languages" height="100%" width="100%"/>
+    <td style="width: 50%; padding: 0; margin: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; height: auto; display: block; margin: 0; padding: 0;"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="https://streak-stats.demolab.com?user=bassiro-prog&theme=radical&hide_border=true" alt="GitHub Streak" height="100%" width="100%"/>
+    <td colspan="2" style="padding: 0; margin: 0;">
+      <img src="https://streak-stats.demolab.com?user=bassiro-prog&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%; height: auto; display: block; margin: 0; padding: 0;"/>
     </td>
   </tr>
 </table>
