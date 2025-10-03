@@ -33,15 +33,21 @@
 
 <div align="center">
 
-  <!-- Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bassiro-prog&theme=radical&hide_border=true" alt="GitHub Streak" height="300"/>
-</p>
----
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=bassiro-prog&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassiro-prog&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com?user=bassiro-prog&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+    </td>
+  </tr>
+</table>
 
 ## 📂 Projetos em destaque
 - 🏋️‍♂️ [Impacto Gym](https://github.com/seu-repo-impacto) → WebApp de treinos para iniciantes em musculação  
