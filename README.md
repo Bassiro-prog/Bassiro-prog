@@ -55,4 +55,4 @@
 
 ---
 ## Snake Animation
-![snake animation](https://github.com/<Bassiro-prog>/<Bassiro-prog>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/devrafaelly/devrafaelly/output/github-contribution-grid-snake.svg)
